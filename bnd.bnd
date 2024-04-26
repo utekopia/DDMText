@@ -1,0 +1,8 @@
+Bundle-Name: Liferay DDM Text Form Field
+Bundle-SymbolicName: com.liferay.dynamic.data.mapping.form.field.type.ddmtext
+Bundle-Version: 1.0.0
+Provide-Capability:\
+	soy;\
+		type:String="LiferayFormField"
+Web-ContextPath: /dynamic-data-mapping-form-field-type-ddmtext
+
